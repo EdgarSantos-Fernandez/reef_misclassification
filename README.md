@@ -12,7 +12,7 @@ Queensland University of Technology. GPO Box 2434. Brisbane, QLD 4001. Australia
 *Julie Vercelloni*, PhD. School of Mathematical Sciences. Y Block, Floor 8, Gardens Point Campus
 Queensland University of Technology. GPO Box 2434. Brisbane, QLD 4001. Australia
 
-*Em Rushworth*, PhD. School of Mathematical Sciences. Y Block, Floor 8, Gardens Point Campus
+*Em Rushworth*, PhD candidate. School of Mathematical Sciences. Y Block, Floor 8, Gardens Point Campus
 Queensland University of Technology. GPO Box 2434. Brisbane, QLD 4001. Australia
 
 *Kerrie Mengersen*, Dist. Professor of Statistics. Deputy Director, ARC Centre for Mathematical and Statistical Frontiers;
