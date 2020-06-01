@@ -1,5 +1,5 @@
 # reef_misclassification
-## R/Stan Codes and info associated with the article: Correcting misclassification errors in crowdsourced and citizen science ecological data: A Bayesian perspective.
+## R/Stan Codes and info associated with the article: Correcting misclassification errors in crowdsourced data: A Bayesian perspective.
 
 __Authors:__
 
